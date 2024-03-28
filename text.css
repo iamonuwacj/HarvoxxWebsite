@@ -1,0 +1,13 @@
+
+.heading {
+    color: green;
+    background-color: red;
+    font-size: 50px;
+    width: 200px;
+    height: 300px;
+
+}
+
+#headings {
+    color: blue;
+}
